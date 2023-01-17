@@ -1,0 +1,5 @@
+verify-x509 is a free open source implementation of the RFC 3161 TSP standard. The verify-x509 project is staffed by
+volunteers. If you are using this library in a for-profit project, please contribute to verify-x509 development and
+maintenance using the "Sponsor" button on the verify-x509 GitHub project page, https://github.com/pyauth/verify-x509. If
+you are looking for support with your commercial electronic signature based application, please donate and contact
+verify-x509 developers using the issue tracker on the project page or the contact information listed in README.rst.
